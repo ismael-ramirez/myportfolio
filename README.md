@@ -4,4 +4,6 @@ This is my professional portfolio website. This website gives samples of my prev
 Screenshot to the deployed application-
 
 
-Link to the deployed application-
+
+ https://ismael-ramirez.github.io/myportfolio/ - Link to live site!
+
